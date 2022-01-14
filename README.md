@@ -8,3 +8,4 @@ is moves the offset of the material in the opposite direction according to the s
 main camera, but will still adjust the image in accordance to camera movement.
 
 ![CloudShadows](https://user-images.githubusercontent.com/80863542/149571504-c731552a-c870-41da-8b8c-53ae7381bbe0.png)
+![CloudShadowsSolo](https://user-images.githubusercontent.com/80863542/149571719-987e015a-de5f-45e4-a18a-86f228cf9d6b.png)
